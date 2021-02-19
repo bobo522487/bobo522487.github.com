@@ -1,3 +1,6 @@
+## HA学习
+- [3D家庭模型的制作与设备集成]（https://www.bilibili.com/video/BV1Wo4y197x7/）
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bobo522487/bobo522487.github.com/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
